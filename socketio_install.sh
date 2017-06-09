@@ -31,7 +31,7 @@ nvm install 7.7.4
 npm init
 npm install --save express socket.io
 # optionnal package that replace the node command with nodemon, 
-# allowing automatic restart at each javascript file moidfication, 
+# allowing automatic restart at each javascript file modification, 
 # great for debug
 npm install -g nodemon 
 #Then, node index.js or nodemon index.js
